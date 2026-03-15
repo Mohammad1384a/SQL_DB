@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SQL_DB.Cli/SQL_DB.Cli.csproj" />
+  <Project Path="SQL_DB.Core/SQL_DB.Core.csproj" />
+  <Project Path="SQL_DB.Tests/SQL_DB.Tests.csproj" />
+</Solution>
